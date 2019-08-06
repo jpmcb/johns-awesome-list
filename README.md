@@ -3,6 +3,10 @@
 ### C
 ##### Learn
   - [Build your own Lisp](http://www.buildyourownlisp.com/)
+  
+### Engineering
+##### Advice
+  - [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
 
 ### Golang
 ##### Tooling
