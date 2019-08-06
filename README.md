@@ -15,6 +15,7 @@
 ### Kubernetes
 ##### Learn
   - [Linux foundation training](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
+  - [Linux foundation - Kubernetes the hard way](https://linuxacademy.com/course/kubernetes-the-hard-way/)
   - [TGIK youtube playlist](https://github.com/heptio/tgik/blob/master/playlist.md)
   - [The Illustrated Children's Guide to Kubernetes](https://chrisshort.net/kubernetes-getting-started/The-Illustrated-Childrens-Guide-to-Kubernetes.pdf)
 
