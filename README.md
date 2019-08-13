@@ -9,6 +9,9 @@
 ### Engineering
 ##### Advice
   - [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
+  
+##### Magazines
+  - [PagedOut - One article per page free magazine](https://pagedout.institute/)
 
 ---
 ### Golang
@@ -35,3 +38,4 @@
 ### WASM
   - [Golang: WASM](https://github.com/golang/go/wiki/WebAssembly#go-webassembly-talks)
   - [Mozilla: Standardizing WASI](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
+  - [What is WASM?](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6)
