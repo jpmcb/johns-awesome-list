@@ -4,6 +4,9 @@
 ### C
 ##### Learn
   - [Build your own Lisp](http://www.buildyourownlisp.com/)
+
+---
+### [Design](./docs/design.md)
   
 ---
 ### Engineering
