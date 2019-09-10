@@ -17,6 +17,9 @@
   - [PagedOut - One article per page free magazine](https://pagedout.institute/)
 
 ---
+### [Front End](./docs/front-end.md)
+
+---
 ### Golang
 ##### Tooling
   - [goexc - command line tool to execute go functions](https://github.com/shurcooL/goexec#goexec)
