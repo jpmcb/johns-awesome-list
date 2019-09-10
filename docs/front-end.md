@@ -6,7 +6,6 @@
 #### Learn
 * [Learn Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/)
 * [Modern CSS Explained for Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
-* []
 
 ###### Interactive
 * [CSS Diner](http://flukeout.github.io/)
