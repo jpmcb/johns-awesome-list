@@ -15,6 +15,8 @@
   
 ##### Magazines
   - [PagedOut - One article per page free magazine](https://pagedout.institute/)
+  
+##### [Pair Programming](./docs/pair-prog.md)
 
 ---
 ### [Front End](./docs/front-end.md)
