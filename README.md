@@ -44,6 +44,9 @@
   - [TDD the hard way](https://www.youtube.com/watch?v=xPL84vvLwXA)
 
 ---
+### [Vim](./docs/vim.md)
+
+---
 ### WASM
   - [Golang: WASM](https://github.com/golang/go/wiki/WebAssembly#go-webassembly-talks)
   - [Mozilla: Standardizing WASI](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
