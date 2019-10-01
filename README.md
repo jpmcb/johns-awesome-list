@@ -5,6 +5,7 @@
 ##### Learn
   - [Build your own Lisp](http://www.buildyourownlisp.com/)
 
+
 ---
 ### [Design](./docs/design.md)
   
@@ -22,7 +23,7 @@
 ### [Front End](./docs/front-end.md)
 
 ---
-### Golang
+### [Golang](./docs/golang.md)
 ##### Tooling
   - [goexc - command line tool to execute go functions](https://github.com/shurcooL/goexec#goexec)
   
