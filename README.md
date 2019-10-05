@@ -5,6 +5,8 @@
 ##### Learn
   - [Build your own Lisp](http://www.buildyourownlisp.com/)
 
+---
+### [Computer Science](./docs/computer-science.md)
 
 ---
 ### [Design](./docs/design.md)
@@ -42,6 +44,9 @@
   - [My favorite way to TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles.html)
   - [Failures of Intro to TDD](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html)
   - [TDD the hard way](https://www.youtube.com/watch?v=xPL84vvLwXA)
+
+---
+### [Tmux](./docs/tmux.md)
 
 ---
 ### [Vim](./docs/vim.md)
