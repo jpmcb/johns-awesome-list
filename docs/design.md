@@ -11,5 +11,10 @@
 * [Stanford - Design Research: Creating new products and market success](https://continuingstudies.stanford.edu/courses/professional-and-personal-development/design-research-creating-new-products-and-market-success/20191_DSN-106-W)
 * [Stanford - An Introduction to user experience UX design](https://continuingstudies.stanford.edu/courses/professional-and-personal-development/an-introduction-to-user-experience-ux-design-in-product-leadership-and-management/20191_BUS-57-W)
 
+### MOOCS
+* [California Institute of the Arts - UI UX Design](https://www.coursera.org/specializations/ui-ux-design)
+* [CS50 for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
+* [MIT - User Interface Design and Implementation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-831-user-interface-design-and-implementation-spring-2011/)
+
 ### Web Resources
 * [UX Honey](http://www.uxhoney.com/home.html)
